@@ -1,0 +1,4 @@
+Welcome to Java Traning.
+C71
+count = 39
+Dept= RA,CSE,ECE
